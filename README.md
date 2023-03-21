@@ -4,8 +4,9 @@ I'm a student at Boston University who is a lifelong learner! I'm especially int
 
 ### Profile Stats:
 
-[![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchou03&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchou03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jchou03&title_color=e6006b&icon_color=e6006b&border_radius=30&hide=contribs&count_private=true&show_icons=true&custom_title=Jared%27s%20GitHub%20Stats&hide_border=true)](https://github.com/jchou03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchou03&title_color=e6006b&border_radius=30&layout=compact&hide_border=true)](https://github.com/jchou03)
+
 
 ### Contact Me:
 [LinkedIn](https://www.linkedin.com/in/jared-chou/)
