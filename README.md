@@ -10,7 +10,7 @@ I'm a student at Boston University who is a lifelong learner! I'm especially int
 -->
 
 ### Contact Me:
-[LinkedIn](https://www.linkedin.com/in/jared-chou/)
+[LinkedIn](https://www.linkedin.com/in/jared-chou/), [Website](https://jaredchou.com)
 
 <!--
 **jchou03/jchou03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
